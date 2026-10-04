@@ -1,0 +1,12 @@
+[
+  'ADIDAS ORIGINAL',
+  'ZARA COAT 3',
+  'iphone 13 pro',
+  'car',
+  'iPhone QA Max',
+  '{{productName}}',
+  'Laptop',
+  'Laptop'
+]
+ | 6ac0d9712be7a4bc2b85c0ca | 
+OrderId is available

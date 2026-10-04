@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6688","Online shopping for ZARA COAT 3","","2026-10-03","passed","2026-10-03","","ClientAppPO.spec.ts","",""
+"","7307","Online shopping","","2026-10-03","passed","2026-10-03","","ClientAppPO.spec.ts","",""
+"","1","refund not eligible for group ticket booking","","2026-10-02","skipped","2026-10-02","","Assignment2.spec.js","",""
+"","8167","@Web refund eligible for single ticket booking","","2026-10-03","passed","2026-10-03","","Assignment2.spec.js","",""
+"","5978","Online shopping for ADIDAS ORIGINAL","","2026-10-03","passed","2026-10-03","","ClientAppPO.spec.ts","",""

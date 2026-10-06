@@ -17,7 +17,6 @@ class CartPage {
         this.page = page;
         this.cartProducts = page.locator("//div//li").first();
         this.checkoutButton = page.locator("text=Checkout");
-
-    }
+}
 
 }
